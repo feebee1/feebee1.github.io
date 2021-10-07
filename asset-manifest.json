@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/phoebe-project/static/css/main.a617e044.chunk.css",
-    "main.js": "/phoebe-project/static/js/main.d8a631c8.chunk.js",
-    "main.js.map": "/phoebe-project/static/js/main.d8a631c8.chunk.js.map",
-    "runtime-main.js": "/phoebe-project/static/js/runtime-main.b048f35b.js",
-    "runtime-main.js.map": "/phoebe-project/static/js/runtime-main.b048f35b.js.map",
-    "static/js/2.71b67cd4.chunk.js": "/phoebe-project/static/js/2.71b67cd4.chunk.js",
-    "static/js/2.71b67cd4.chunk.js.map": "/phoebe-project/static/js/2.71b67cd4.chunk.js.map",
-    "index.html": "/phoebe-project/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/phoebe-project/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.71b67cd4.chunk.js.LICENSE.txt": "/phoebe-project/static/js/2.71b67cd4.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.d8a631c8.chunk.js",
+    "main.js.map": "/static/js/main.d8a631c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d7923e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d7923e0.js.map",
+    "static/js/2.71b67cd4.chunk.js": "/static/js/2.71b67cd4.chunk.js",
+    "static/js/2.71b67cd4.chunk.js.map": "/static/js/2.71b67cd4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.71b67cd4.chunk.js.LICENSE.txt": "/static/js/2.71b67cd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b048f35b.js",
+    "static/js/runtime-main.9d7923e0.js",
     "static/js/2.71b67cd4.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.d8a631c8.chunk.js"
